@@ -1,10 +1,10 @@
 # Style-transfer
 ## Examples:
 <div align="center">
-<img src="https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/base1.jpg" height="250px">
-<img src="https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/style3.jpg" height="250px">
-<img src="https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/stylized1.png" height="250px">
-
+<img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/base1.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/style3.jpg" height="250px">
+<img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/stylized1.png" height="250px">
+</div>
 <hr>
 
 ## Setup
