@@ -4,14 +4,16 @@ Base Image / Style Image:
 <div align="center">
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/base1.jpg" height="250px">
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/style3.jpg" height="250px">
+
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/base1.png" height="250px">
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/shinkai.png" height="250px">
 </div>
 <hr>
 Stylized Images:
+<div align="center">
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/stylized1.jpg" height="250px">
 <img src="https://raw.githubusercontent.com/seuphor/vgg19-style/master/examples/stylized2.jpg" height="250px">
-
+</div>
 ## Setup
 #### Dependencies:
 * [tensorflow](https://github.com/tensorflow/tensorflow)
