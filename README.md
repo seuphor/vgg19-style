@@ -1,4 +1,6 @@
 # Style-transfer
+* refer to blog for more info: [seuphor's blog](http://seuphor.github.io/personalsite/2017-05-26)
+
 ## Examples:
 Base Image / Style Image:
 <div align="center">
